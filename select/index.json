@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "盗られ系",
+  "base_artist": "Yoeko Kurahashi",
+  "createdAt": "2026-03-11T09:59:23.218094Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "盗られ系",
+      "artist": "倉橋 ヨエコ",
+      "has_synced": false,
+      "path": "select/pl_01_盗られ系_倉橋_ヨエコ.txt"
+    }
+  ]
+}
